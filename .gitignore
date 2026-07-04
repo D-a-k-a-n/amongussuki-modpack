@@ -1,0 +1,9 @@
+# packwiz-репо коммитит ВСЁ нужное: pack.toml, index.toml, mods/*.pw.toml
+# и self-host jar (supplementaries) — их игнорировать нельзя.
+# Игнорируем только мусор ОС/редакторов.
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+.idea/
+.vscode/
