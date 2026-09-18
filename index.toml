@@ -1,8 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".packwizignore"
+hash = "2270f7665eeb8bb154ff0114587cfd9932074143e4c29b6d64495704bc3b437f"
+
+[[files]]
+file = "README.md"
+hash = "be062d7fcab8b655738d1c133d241d0fd7e11fc4e0ffa5c0d4b8694e87b0a100"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
+file = "mods/aerowarptics.pw.toml"
+hash = "cf2e9329736fe00e519c621a6cbcd07fbc9f0b46592ef86e81b20d0764c2859d"
 metafile = true
 
 [[files]]
@@ -51,6 +64,11 @@ hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
@@ -73,6 +91,16 @@ metafile = true
 [[files]]
 file = "mods/create-interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
+metafile = true
+
+[[files]]
+file = "mods/create-warnautics.pw.toml"
+hash = "ce23931993397323466ed37ebfeb28428fb1e015085ff68fefeaa0bda581a2b7"
 metafile = true
 
 [[files]]

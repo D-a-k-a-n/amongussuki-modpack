@@ -1,0 +1,8 @@
+name = "Create: AeroWarptics"
+filename = "aerowarptics-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8787/426/aerowarptics-1.3.0.jar"
+hash-format = "sha512"
+hash = "dc9a733b1026830a6932f3aa930b3fb2e02b70b77514a7a3ea0772f2c4f4fbe356129feaef8158fe350e2f289c29eabc1a1ce48cf6eff1477e2a9635e33ad7c6"
