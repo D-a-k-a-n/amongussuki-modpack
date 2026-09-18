@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".packwizignore"
-hash = "2270f7665eeb8bb154ff0114587cfd9932074143e4c29b6d64495704bc3b437f"
-
-[[files]]
-file = "README.md"
-hash = "be062d7fcab8b655738d1c133d241d0fd7e11fc4e0ffa5c0d4b8694e87b0a100"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
